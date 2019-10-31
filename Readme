@@ -1,0 +1,6 @@
+This project creates natural text descriptions for diseases in SNOMED CT.
+
+It is built with SNOMED CT US Snapshot version. SNOMED CT files were downloaded and pre-processed before they could be used in this project. 
+Contact olga.lyudovyk@gmail.com if you would like to obtain those files in order to run the code.
+
+The project is live at https://sno2eng.shinyapps.io/sno2Eng/ - be patient, it takes a while to load.
